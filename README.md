@@ -1,7 +1,3 @@
-Theek 👍 tumhara project **AI Learning Chatbot** hai, to main tumhare liye usi ka **correct final README (GitHub ready)** bana deta hoon — bas copy paste karo:
-
----
-
 # 🤖 AI Learning Chatbot
 
 ## 📌 Overview
