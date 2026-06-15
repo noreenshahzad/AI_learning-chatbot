@@ -7,7 +7,7 @@ It scrapes Artificial Intelligence and Machine Learning related content from Wik
 
 The chatbot helps users learn basic AI concepts by retrieving relevant information from a scraped dataset.
 
----
+
 
 ## 🚀 Features
 
@@ -18,7 +18,7 @@ The chatbot helps users learn basic AI concepts by retrieving relevant informati
 * ⚡ Fast keyword-based response system
 * 🎯 Helps in understanding basic AI concepts
 
----
+
 
 ## 🧠 Technologies Used
 
@@ -28,7 +28,6 @@ The chatbot helps users learn basic AI concepts by retrieving relevant informati
 * Requests
 * Scikit-learn (TF-IDF, Cosine Similarity)
 
----
 
 ## 📁 Project Structure
 
@@ -41,7 +40,6 @@ AI-Learning-Chatbot/
 ├── README.md           # Project documentation  
 ```
 
----
 
 ## ⚙️ How It Works
 
@@ -51,7 +49,6 @@ AI-Learning-Chatbot/
 * Extracts useful paragraphs
 * Saves data into `training_data.txt`
 
----
 
 ### ⚙️ Processing
 
@@ -59,14 +56,12 @@ AI-Learning-Chatbot/
 * Compares user query with dataset
 * Finds most relevant answer using cosine similarity
 
----
 
 ### 💬 Output
 
 * Shows best matching AI-related answer
 * Displays response in Streamlit chatbot interface
 
----
 
 ## 🚀 How to Run
 
@@ -76,7 +71,6 @@ AI-Learning-Chatbot/
 pip install streamlit requests beautifulsoup4 scikit-learn
 ```
 
----
 
 ### Step 2: Run scraper
 
@@ -84,7 +78,6 @@ pip install streamlit requests beautifulsoup4 scikit-learn
 python web_scraper.py
 ```
 
----
 
 ### Step 3: Run chatbot
 
@@ -92,7 +85,6 @@ python web_scraper.py
 streamlit run app.py
 ```
 
----
 
 ## ⚠️ Limitations
 
@@ -100,7 +92,6 @@ streamlit run app.py
 * Works on keyword similarity only
 * Depends on scraped Wikipedia data
 
----
 
 ## 🔮 Future Improvements
 
@@ -109,8 +100,6 @@ streamlit run app.py
 * Add chat memory feature
 * Better UI design
 * Deploy on Streamlit Cloud
-
----
 
 ## 👩‍💻 Author
 
@@ -122,6 +111,5 @@ Built for learning purposes:
 * Natural Language Processing (NLP)
 * Streamlit Web Apps
 
----
 
 Agar tum chaho to main tumhare project ko **final polish (GitHub banner + screenshots + perfect description + deployment link)** bhi bana deta hoon 👍
