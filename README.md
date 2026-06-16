@@ -110,6 +110,3 @@ Built for learning purposes:
 * Web Scraping
 * Natural Language Processing (NLP)
 * Streamlit Web Apps
-
-
-Agar tum chaho to main tumhare project ko **final polish (GitHub banner + screenshots + perfect description + deployment link)** bhi bana deta hoon 👍
